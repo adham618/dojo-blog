@@ -62,10 +62,17 @@
 }
 
 /* blog details page */
+.blog-details {
+  border: 1px solid #e2e2e2;
+  padding: 1rem
+}
+
 .blog-details h2 {
   font-size: 20px;
   color: #f1356d;
   margin-bottom: 10px;
+  padding: 1rem 0rem;
+  width: auto;
 }
 
 .blog-details div {
@@ -79,4 +86,8 @@
   padding: 8px;
   border-radius: 8px;
   cursor: pointer;
+}
+
+.blog-details p {
+  line-height: 1.7;
 }

@@ -10,7 +10,7 @@ const BlogDetails = () => {
       {isPending && <div>Loading.....</div>}
       {blogs && (
         <article>
-          <h2>{blogs.title}</h2>
+          <h2>{blogs.title} :-</h2>
           <p>Written by {blogs.author}</p>
           <p>{blogs.body}</p>
         </article>
