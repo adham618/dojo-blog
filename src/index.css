@@ -62,12 +62,6 @@
 }
 
 /* blog details page */
-.blog-details,
-.blog-list,
-.create {
-  border: 1px solid #e2e2e2;
-  padding: 1rem
-}
 
 .blog-details h2 {
   font-size: 20px;
